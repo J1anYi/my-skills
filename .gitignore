@@ -1,0 +1,12 @@
+﻿# 视频和音频文件
+*.mp4
+*.m4a
+*.mkv
+*.avi
+*.mov
+*.webm
+
+# 日志和临时文件
+*.log
+.playwright-cli/
+download_history.db
